@@ -4,9 +4,9 @@ This repository contains many basic algorithms coded in C/C++.
 
 Many more algorithms will be updated here.
 
-#### NOte
-    In some IDE of C/C++, it will not detect few libraries like "algorithm.h" and "bits/stdc++.h". In that case, change the extension of the files
-    from .c to .cpp
+#### Note
+    In some IDE of C/C++, it will not detect few libraries like "algorithm.h" and "bits/stdc++.h". In that case, 
+    change the extension of the files from .c to .cpp
     
     Also, in linux, to run C/C++ files with "math.h", add -lm while executing. Eg. g++/gcc <filename>.c -lm
 
