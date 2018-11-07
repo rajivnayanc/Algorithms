@@ -35,4 +35,8 @@ Many more algorithms will be updated here.
     - Knapsack_Problem.c
     - Krushkal_algo.c
     - Prims_algorithms.c
+
+## Dynamic Programming Problem
+
+    - matrix_chain_multiplication.c (Optimal Order for multiplying n matrices)
     
