@@ -42,5 +42,5 @@ Many more algorithms will be updated here.
 ## Dynamic Programming Problem
 
     - matrix_chain_multiplication.c (Optimal Order for multiplying n matrices)
-    -OBST.c   (Optimal Binary Search Tree with Dummy Keys)
+    - OBST.c   (Optimal Binary Search Tree with Dummy Keys)
     
