@@ -10,6 +10,9 @@ Many more algorithms will be updated here.
     
     Also, in linux, to run C/C++ files with "math.h", add -lm while executing. Eg. g++/gcc <filename>.c -lm
 
+
+    
+
 ## Binary Search
     
     - Binary_Search.c
@@ -39,4 +42,5 @@ Many more algorithms will be updated here.
 ## Dynamic Programming Problem
 
     - matrix_chain_multiplication.c (Optimal Order for multiplying n matrices)
+    -OBST.c   (Optimal Binary Search Tree with Dummy Keys)
     
