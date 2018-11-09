@@ -43,4 +43,5 @@ Many more algorithms will be updated here.
 
     - matrix_chain_multiplication.c (Optimal Order for multiplying n matrices)
     - OBST.c   (Optimal Binary Search Tree with Dummy Keys)
+    - 01_KnapSack_Problem.c (Using Set Method)
     
