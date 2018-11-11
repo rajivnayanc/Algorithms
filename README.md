@@ -5,10 +5,14 @@ This repository contains many basic algorithms coded in C/C++.
 Many more algorithms will be updated here.
 
 #### Note
-    In some IDE of C/C++, it will not detect few libraries like "algorithm.h" and "bits/stdc++.h". In that case, 
-    change the extension of the files from .c to .cpp
+    1. In some IDE of C/C++, it will not detect few libraries like "algorithm.h" and "bits/stdc++.h". In that case, 
+       change the extension of the files from .c to .cpp
     
-    Also, in linux, to run C/C++ files with "math.h", add -lm while executing. Eg. g++/gcc <filename>.c -lm
+    2. Also, in linux, to run C/C++ files with "math.h", add -lm while executing. Eg. g++/gcc <filename>.c -lm
+    
+    3. In Graph problems, in weight adjacency matrices, 0 in input represents 0 distance from i->i (from same vertex to same vertex)  and 0          represents INF when is not equal to j , i.e, from one vertex to different vertex if there is no path between them.
+    
+    
 
 
     
@@ -44,4 +48,5 @@ Many more algorithms will be updated here.
     - matrix_chain_multiplication.c (Optimal Order for multiplying n matrices)
     - OBST.c   (Optimal Binary Search Tree with Dummy Keys)
     - 01_KnapSack_Problem.c (Using Set Method)
+    - All_Pair_shortest_Path.c (Floyd Warshall Algorithm) 
     
