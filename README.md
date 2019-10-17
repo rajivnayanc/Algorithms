@@ -26,6 +26,10 @@ Many more algorithms will be updated here.
     
     - Merge_Sort.c
     - Quick_Sort.c
+    - heapsort.c
+    - Shell_Sort.c
+    - Insertion_Sort.c
+    - Selection_Sort.c
     
 ## Divide and Conquer Applications
 
